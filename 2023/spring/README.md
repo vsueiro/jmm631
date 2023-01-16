@@ -21,15 +21,15 @@ Storytelling with Data is about turning numbers into compelling narratives.
 
 By the end of this course, students should be able to:
 
-- Apply basic math and charts to extract insights from data
-- Explain complex topics using clear, step-by-step narratives
+- Extract insights from data using basic statistics and charts
+- Explain complex topics through clear, step-by-step narratives
 - Combine verbal and visual elements into a cohesive story
 
 ### Course Topics
 
 Students will conduct 2 projects of their own interest and experience end-to-end creative processes: from finding insights in data to communicating them. Each project is split in two halves:
 
-1. **Exploring**<br>Students will learn approaches to extract stories from datasets, using basic statistics and charts. A process often called exploratory analysis. For this part, we will use tools like Google Sheets or Python.
+1. **Exploring**<br>Students will learn and practice approaches to extract meaning from datasets, using basic statistics and charts. A process often called exploratory analysis. For this part, we will use tools like Google Sheets or Python.
 
 2. **Explaining**<br>Students will experiment with different ways to tell that story, trying to find a narrative that is clear and concise, but also in depth. A process often referred to as explanatory visualization. For this part, we will use tools like Flourish, RAWGraphs, and Figma.
 
