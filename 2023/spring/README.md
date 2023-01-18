@@ -33,7 +33,7 @@ Students will conduct 2 projects of their own interest and experience end-to-end
 
 2. **Explaining**<br>Students will experiment with different ways to tell that story, trying to find a narrative that is clear and concise, but also in depth. A process often referred to as explanatory visualization. For this part, we will use tools like Flourish, RAWGraphs, and Figma.
 
-All tools are free (or provide a free version), except Google Domains. 💸
+All tools are free (or provide a free version). 💸
 
 ⓘ Even though specific tools will be demonstrated during class, students are free to choose different ones for their projects. In this class, students are also invited to experiment with different media – from digital to physical – whichever fits their project’s communication goals.
 
@@ -245,6 +245,5 @@ Please reach out to your instructor or any of the resources listed on the site i
 
 There is a _lot_ of learning resources out there. This course does not intend to replace any of those. Instead, we heavily rely on them. Here are my top 3 free learning resources:
 
-- [W3Schools](https://www.w3schools.com/) (simplified documentation)
-- [MDN Web Docs](https://developer.mozilla.org/) (advanced documentation)
-- [freeCodeCamp](https://www.freecodecamp.org/) (beginner-friendly courses)
+- [Data Viz Project](https://datavizproject.com/) (list of chart types, with beautiful illustrations)
+- [Dataphys Gallery](http://dataphys.org/list/) (list of data visualization, including interactive ones)
