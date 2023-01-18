@@ -33,25 +33,9 @@ Students will conduct 2 projects of their own interest and experience end-to-end
 
 2. **Explaining**<br>Students will experiment with different ways to tell that story, trying to find a narrative that is clear and concise, but also in depth. A process often referred to as explanatory visualization. For this part, we will use tools like Flourish, RAWGraphs, and Figma.
 
-Even though specific tools will be demonstrated during class, students are free to choose different ones for their projects. In this class, students are also invited to experiment with different media – from digital to physical – whichever fits their project’s communication goals.
-
-In order to reach the desired goals, students will learn concepts and techniques related to the 3 core technologies of the web (with an emphasis on the first two):
-
-- 🧱 [HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics) (to define structure and content)
-- 🎨 [CSS](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics) (to apply visual styles)
-- ✨ [JS](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics) (to create interactions)
-
-This course also covers tools that help us organize and scale up our projects:
-
-- [CodeSandbox](https://codesandbox.io/) (to write code without installing stuff)
-- [Vercel](https://vercel.com/) (to easily publish your website)
-
-Optionally:
-
-- [Webflow](https://webflow.com/) (to build sites without writing code)
-- [Google Domains](https://domains.google/) (to rent a friendly name, like “example.com”)
-
 All tools are free (or provide a free version), except Google Domains. 💸
+
+ⓘ Even though specific tools will be demonstrated during class, students are free to choose different ones for their projects. In this class, students are also invited to experiment with different media – from digital to physical – whichever fits their project’s communication goals.
 
 ### Course Timeline
 
