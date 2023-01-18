@@ -247,3 +247,4 @@ There is a _lot_ of learning resources out there. This course does not intend to
 
 - [Data Viz Project](https://datavizproject.com/) (list of chart types, with beautiful illustrations)
 - [Dataphys Gallery](http://dataphys.org/list/) (list of data visualization, including interactive ones)
+- [Nightingale](nightingaledvs.com/) (digital magazine about anything data visualization)
