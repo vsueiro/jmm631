@@ -247,5 +247,5 @@ Please reach out to your instructor or any of the resources listed on the site i
 There is a _lot_ of learning resources out there. This course does not intend to replace any of those. Instead, we heavily rely on them. Here are my top 3 free learning resources:
 
 - [Data Viz Project](https://datavizproject.com/) (list of chart types, with beautiful illustrations)
-- [Dataphys Gallery](http://dataphys.org/list/) (list of data visualization, including interactive ones)
+- [Dataphys Gallery](http://dataphys.org/list/) (list of data physicalizations, including interactive ones)
 - [Nightingale](https://nightingaledvs.com/) (digital magazine about anything data visualization)
