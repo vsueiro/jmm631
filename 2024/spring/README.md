@@ -40,17 +40,11 @@ By the end of this course, students should be able to:
 - Explain complex topics through clear, step-by-step narratives
 - Combine verbal and visual elements into a cohesive story
 
-### Course Topics
+### Course Tools
 
-Students will conduct 2 projects of their own interest and experience end-to-end creative processes: from finding insights in data to communicating them. Each project is split in two halves:
+For analyzing data, students can use tools like Google Sheets, Tableau, or Python. For visualizating data, students can use tools like Flourish, RAWGraphs, and Figma.
 
-1. **Exploring**<br>Students will learn and practice approaches to extract meaning from datasets, using basic statistics and charts. A process often called exploratory analysis. For this part, we will use tools like Google Sheets or Python.
-
-2. **Explaining**<br>Students will experiment with different ways to tell that story, trying to find a narrative that is clear and concise, but also in depth. A process often referred to as explanatory visualization. For this part, we will use tools like Flourish, RAWGraphs, and Figma.
-
-All tools are free (or provide a free version). 💸
-
-ⓘ Even though specific tools will be demonstrated during class, students are free to choose different ones for their projects. In this class, students are also invited to experiment with different media – from digital to physical – whichever fits their project’s communication goals.
+ⓘEven though specific tools might be be demonstrated during class, students are free to choose different ones for their projects. In this class, students are also invited to experiment with different media – from digital to physical – whichever fits their project’s communication goals.
 
 ### Course Timeline
 
