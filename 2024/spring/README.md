@@ -44,7 +44,7 @@ By the end of this course, students should be able to:
 
 For analyzing data, students can use tools like Google Sheets, Tableau, or Python. For visualizating data, students can use tools like Flourish, RAWGraphs, and Figma.
 
-ⓘEven though specific tools might be be demonstrated during class, students are free to choose different ones for their projects. In this class, students are also invited to experiment with different media – from digital to physical – whichever fits their project’s communication goals.
+ⓘ Even though specific tools might be be demonstrated during class, students are free to choose different ones for their projects. In this class, students are also invited to experiment with different media – from digital to physical – whichever fits their project’s communication goals.
 
 ### Course Timeline
 
