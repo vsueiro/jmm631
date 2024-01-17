@@ -59,8 +59,7 @@ We will not learn everything at once. Instead, this course is split into a few s
 
 #### Presentation day
 
-For each project, students will share their initial **planning** and their final **website** with the whole class.
-In order to present, students need to sign-up for 5-min **presentation slots** (instructions will be provided via Blackboard).
+For each project, students will share their final **website** with the whole class. For the third project, students will also present their **planning** beforehand, so they can to get early feedback on their idea. In order to present, students need to sign-up for 5-min **presentation slots** (instructions will be provided via Blackboard).
 
 #### Peer Feedback
 
@@ -75,7 +74,9 @@ After one student presents, the next student provides feedback.
 
 After the _last_ student presents, the _first_ student provides feedback.
 
-In essense, your feedback should be about your classmate’s project idea (conceptual) or its execution (technical), in the form of compliments, questions, or suggestions.
+_In other words: right before you present, you provide feedback for the student that has just presented._
+
+Your feedback should be about your classmate’s project idea (conceptual) or its execution (technical), in the form of compliments, questions, or suggestions.
 
 ### Course Content
 
@@ -97,26 +98,23 @@ I reserve the right to adjust the final grade according to class participation, 
 
 ### Grading Breakdown
 
-| Step                        | Weight    | Assignment      | Task          | Points |
-| --------------------------- | --------- | --------------- | ------------- | ------ |
-| Introduction                | 10 Points | Expectations    | Submission    | 5      |
-| \*                          | \*        | Critique        | Submission    | 5      |
-| Project 1: Personal Profile | 20 Points | Planning        | Presentation  | 5      |
-| \*                          | \*        | \*              | Peer Feedback | 2.5    |
-| \*                          | \*        | Website         | Presentation  | 5      |
-| \*                          | \*        | \*              | Peer Feedback | 2.5    |
-| \*                          | \*        | \*              | Submission    | 5      |
-| Project 2: Guessing Game    | 30 Points | Planning        | Presentation  | 5      |
-| \*                          | \*        | \*              | Peer Feedback | 5      |
-| \*                          | \*        | Website         | Presentation  | 10     |
-| \*                          | \*        | \*              | Peer Feedback | 5      |
-| \*                          | \*        | \*              | Submission    | 5      |
-| Project 3: Web Experiment   | 30 Points | Planning        | Presentation  | 5      |
-| \*                          | \*        | \*              | Peer Feedback | 5      |
-| \*                          | \*        | Website         | Presentation  | 10     |
-| \*                          | \*        | \*              | Peer Feedback | 5      |
-| \*                          | \*        | \*              | Submission    | 5      |
-| Final Exam                  | 10 Points | Self-reflection | Submission    | 10     |
+| Step                   | Weight    | Assignment      | Task            | Points |
+| ---------------------- | --------- | --------------- | --------------- | ------ |
+| Introduction           | 10 Points | Expectations    | Submission      | 5      |
+| \*                     | \*        | Critique        | Submission      | 5      |
+| Inspiration Days       | 10 Points | Analyze         | Submission (8×) | 1.25   |
+| Project 1: Customize … | 20 Points | Website         | Presentation    | 10     |
+| \*                     | \*        | \*              | Peer Feedback   | 5      |
+| \*                     | \*        | \*              | Submission      | 5      |
+| Project 2: Clone …     | 20 Points | Website         | Presentation    | 10     |
+| \*                     | \*        | \*              | Peer Feedback   | 5      |
+| \*                     | \*        | \*              | Submission      | 5      |
+| Project 3: Create …    | 30 Points | Planning        | Presentation    | 5      |
+| \*                     | \*        | \*              | Peer Feedback   | 5      |
+| \*                     | \*        | Website         | Presentation    | 10     |
+| \*                     | \*        | \*              | Peer Feedback   | 5      |
+| \*                     | \*        | \*              | Submission      | 5      |
+| Final Exam             | 10 Points | Self-reflection | Submission      | 10     |
 
 #### Missed a task?
 
