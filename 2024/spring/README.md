@@ -98,23 +98,23 @@ I reserve the right to adjust the final grade according to class participation, 
 
 ### Grading Breakdown
 
-| Step                   | Weight    | Assignment      | Task            | Points |
-| ---------------------- | --------- | --------------- | --------------- | ------ |
-| Introduction           | 10 Points | Expectations    | Submission      | 5      |
-| \*                     | \*        | Critique        | Submission      | 5      |
-| Inspiration Days       | 10 Points | Analyze         | Submission (8×) | 1.25   |
-| Project 1: Customize … | 20 Points | Website         | Presentation    | 10     |
-| \*                     | \*        | \*              | Peer Feedback   | 5      |
-| \*                     | \*        | \*              | Submission      | 5      |
-| Project 2: Clone …     | 20 Points | Website         | Presentation    | 10     |
-| \*                     | \*        | \*              | Peer Feedback   | 5      |
-| \*                     | \*        | \*              | Submission      | 5      |
-| Project 3: Create …    | 30 Points | Planning        | Presentation    | 5      |
-| \*                     | \*        | \*              | Peer Feedback   | 5      |
-| \*                     | \*        | Website         | Presentation    | 10     |
-| \*                     | \*        | \*              | Peer Feedback   | 5      |
-| \*                     | \*        | \*              | Submission      | 5      |
-| Final Exam             | 10 Points | Self-reflection | Submission      | 10     |
+| Step                   | Weight    | Assignment          | Task            | Points |
+| ---------------------- | --------- | ------------------- | --------------- | ------ |
+| Introduction           | 10 Points | Expectations        | Submission      | 5      |
+| \*                     | \*        | Critique            | Submission      | 5      |
+| Inspiration Days       | 10 Points | Analyze             | Submission (8×) | 1.25   |
+| Project 1: Customize … | 20 Points | Data-driven project | Presentation    | 10     |
+| \*                     | \*        | \*                  | Peer Feedback   | 5      |
+| \*                     | \*        | \*                  | Submission      | 5      |
+| Project 2: Clone …     | 20 Points | Data-driven project | Presentation    | 10     |
+| \*                     | \*        | \*                  | Peer Feedback   | 5      |
+| \*                     | \*        | \*                  | Submission      | 5      |
+| Project 3: Create …    | 30 Points | Planning            | Presentation    | 5      |
+| \*                     | \*        | \*                  | Peer Feedback   | 5      |
+| \*                     | \*        | Data-driven project | Presentation    | 10     |
+| \*                     | \*        | \*                  | Peer Feedback   | 5      |
+| \*                     | \*        | \*                  | Submission      | 5      |
+| Final Exam             | 10 Points | Self-reflection     | Submission      | 10     |
 
 #### Missed a task?
 
