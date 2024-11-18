@@ -54,7 +54,7 @@ We will not learn everything at once. Instead, this course is split into a few s
 
 #### Presentation day
 
-For each project, students will share their final **website** with the whole class. For the third project, students will also present their **planning** beforehand, so they can to get early feedback on their idea. In order to present, students need to sign-up for 5-min **presentation slots** (instructions will be provided via Blackboard).
+For each project, students will share their final **project** with the whole class. For the third project, students will also present their **planning** beforehand, so they can to get early feedback on their idea. In order to present, students need to sign-up for 5-min **presentation slots** (instructions will be provided via Blackboard).
 
 #### Peer Feedback
 
